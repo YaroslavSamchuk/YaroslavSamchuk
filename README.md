@@ -26,7 +26,8 @@ class YaroslavSamchuk:
         ]
         self.frameworks: List[str] = [
             "Django",
-            "Flask", "Express",
+            "Flask",
+            "Express",
             "React",
             "React Native",
             "WebSockets",
