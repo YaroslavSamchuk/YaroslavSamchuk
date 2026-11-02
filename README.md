@@ -1,8 +1,9 @@
 ```python
 class YaroslavSamchuk:
     """
-    Fullstack Developer | AI Builder
-    Patriot of Ukraine | Based in Copenhagen
+    Fullstack Developer |
+    AI Builder |
+    Based in Copenhagen |
     Coding since 12 y.o.
     """
 
